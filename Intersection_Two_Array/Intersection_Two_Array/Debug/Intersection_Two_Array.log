@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Intersection_Two_Array.cpp
+d:\code_project\c++_test\github_project\leetcode349_-intersection_of_two_arrays\intersection_two_array\intersection_two_array\intersection_two_array.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode349_-intersection_of_two_arrays\intersection_two_array\intersection_two_array\intersection_two_array.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode349_-intersection_of_two_arrays\intersection_two_array\intersection_two_array\intersection_two_array.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode349_-intersection_of_two_arrays\intersection_two_array\intersection_two_array\intersection_two_array.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode349_-intersection_of_two_arrays\intersection_two_array\intersection_two_array\intersection_two_array.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode349_-intersection_of_two_arrays\intersection_two_array\intersection_two_array\intersection_two_array.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+  Intersection_Two_Array.vcxproj -> D:\Code_Project\C++_Test\GitHub_Project\LeetCode349_-Intersection_of_Two_Arrays\Intersection_Two_Array\Debug\Intersection_Two_Array.exe
